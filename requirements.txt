@@ -3,3 +3,4 @@ uvicorn
 fastapi-cli
 python-dotenv
 python3-setuptools
+wheel
